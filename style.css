@@ -61,6 +61,7 @@ button {
   border-radius: 50%;
   background: transparent;
   border: none;
+  outline: none;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4), -1px -1px 1px white;
 }
 button:hover {
@@ -73,6 +74,9 @@ button:hover {
 }
 @media screen and (max-width: 900px) {
   .container {
-    width: 70%;
+    width: 80%;
+  }
+  button {
+    margin-left: 10%;
   }
 }
