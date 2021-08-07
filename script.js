@@ -55,7 +55,7 @@ function load_track(index_no){
     title.innerHTML = All_song[index_no].name; 
     track_image.src = All_song[index_no].img;
     artist.innerHTML = All_song[index_no].artist; 
-    timer = setInterval(range_slider , 1000);
+    timer = setInterval(range_slider , 100);
 }
 load_track(index_no);
 
