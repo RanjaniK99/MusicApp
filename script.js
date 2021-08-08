@@ -26,7 +26,7 @@ let All_song = [
     name: "Endhan Nanbiye......",
     path: "audio/song2.mp3",
     img: "images/img2.jpg",
-    artist: '"Sid Sriram, Movie-TEDDY"',
+    artist: '"Anirudh, Movie-TEDDY"',
     },
     {
         name: "Kadhaipoma.......",
